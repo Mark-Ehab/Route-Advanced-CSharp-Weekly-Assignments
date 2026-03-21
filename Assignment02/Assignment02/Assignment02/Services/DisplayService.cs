@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Assignment02.Services;
 
-public class DisplayService
+public sealed class DisplayService
 {
     // Methods
 

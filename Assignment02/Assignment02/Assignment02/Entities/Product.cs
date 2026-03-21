@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Assignment02.Entities;
 
-public class Product
+public sealed class Product
 {
     // Properties
 
